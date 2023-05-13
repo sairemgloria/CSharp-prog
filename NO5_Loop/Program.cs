@@ -10,6 +10,8 @@
             WhileLoop();
             Console.WriteLine("OUTPUT FOR DO WHILE LOOP: ");
             DoWhileLoop();
+            Console.WriteLine("OUTPUT FOR FOR LOOP: ");
+            ForLoop();
         }
 
         /* While Loop Function */
@@ -32,6 +34,15 @@
                 Console.WriteLine("Henlo, mundo!", j); // -> output
                 j++; // -> iteration or increment
             } while (j <= 5); // -> check the condition
+        }
+
+        /* For Loop Function */
+        static void ForLoop()
+        {
+            for (int k = 1; k <= 5; k++)
+            {
+                Console.WriteLine("Hellow, wazzap!", k);
+            }
         }
     }
 }
