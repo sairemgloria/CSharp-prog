@@ -15,6 +15,7 @@
             bool Switch = true;
             char SingleChar = 'C';
             string name = "Ryu";
+            string[] Cars = {"Honda","BMW","Ferrari"};
 
             /* OUTPUTS */
             Console.WriteLine("sbyte: " + s);
@@ -27,6 +28,7 @@
             Console.WriteLine("bool: " + Switch);
             Console.WriteLine("char: " + SingleChar);
             Console.WriteLine("string: " + name);
+            Console.WriteLine("string array: " + Cars[0]);
 
             /* NOTES */
             /* Always use declared variables unless it will allocate memory in the program :>  */
