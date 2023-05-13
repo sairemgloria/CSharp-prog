@@ -1,4 +1,6 @@
-﻿namespace NO1_HelloWorld
+﻿using System;
+
+namespace NO1_HelloWorld
 {
     internal class Program
     {
