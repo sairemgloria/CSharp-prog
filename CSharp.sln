@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO7_Typecasting", "NO7_Type
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO8_TryCatch", "NO8_TryCatch\NO8_TryCatch.csproj", "{9FB68DE6-A368-4210-A845-3F8D50BFB5D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO9_MethodsFunctions", "NO9_MethodsFunctions\NO9_MethodsFunctions.csproj", "{6AEDDA25-4C6E-4A56-95E8-74F9724C0A82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO9_MethodsFunctions", "NO9_MethodsFunctions\NO9_MethodsFunctions.csproj", "{6AEDDA25-4C6E-4A56-95E8-74F9724C0A82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO10_VariableScoping", "NO10_VariableScoping\NO10_VariableScoping.csproj", "{C1F0A998-7FF4-4E30-8DC9-8D11B2A87ECD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO10_VariableScoping", "NO10_VariableScoping\NO10_VariableScoping.csproj", "{C1F0A998-7FF4-4E30-8DC9-8D11B2A87ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO11_ParametersArguments", "NO11_ParametersArguments\NO11_ParametersArguments.csproj", "{787AE3F5-79C1-416A-AA2A-9394C904F344}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C1F0A998-7FF4-4E30-8DC9-8D11B2A87ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F0A998-7FF4-4E30-8DC9-8D11B2A87ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F0A998-7FF4-4E30-8DC9-8D11B2A87ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787AE3F5-79C1-416A-AA2A-9394C904F344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787AE3F5-79C1-416A-AA2A-9394C904F344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787AE3F5-79C1-416A-AA2A-9394C904F344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787AE3F5-79C1-416A-AA2A-9394C904F344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
