@@ -7,6 +7,7 @@
             /* Topic 7 : Typecasting */
             Console.WriteLine("Topic 7 : Typecasting"); // -> display title
             SumProcess();
+            Console.ReadKey();
         }
 
         static void SumProcess()
