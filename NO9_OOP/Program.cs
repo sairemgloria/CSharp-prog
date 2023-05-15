@@ -6,8 +6,14 @@
         {
             /* Topic 9 : Methods */
             Console.WriteLine("Topic 9 : Methods"); // -> display title
-            sayHello();
+            // this will show message "Hi"
             sayHi();
+
+            // this code will do for loop and output has five times of "Hello"
+            for(int i = 1; i < 5; i++)
+            {
+                sayHello();
+            }
         }
 
         // this method will say "Hello"
