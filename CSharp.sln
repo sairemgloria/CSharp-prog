@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNO1", "ChallengeNO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO14_Classes", "NO14_Classes\NO14_Classes.csproj", "{5B6B5E32-7A27-4F30-8B07-5EF8D1396362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO15_Static", "NO15_Static\NO15_Static.csproj", "{E3CEF789-9FB1-41C1-8482-7D4EF38355D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO15_Static", "NO15_Static\NO15_Static.csproj", "{E3CEF789-9FB1-41C1-8482-7D4EF38355D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO16_OOP", "NO16_OOP\NO16_OOP.csproj", "{09A2E6BA-352F-47BF-9C8F-869C07113763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO16_OOP", "NO16_OOP\NO16_OOP.csproj", "{09A2E6BA-352F-47BF-9C8F-869C07113763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO17_Constructor", "NO17_Constructor\NO17_Constructor.csproj", "{D324C125-0C88-4231-8CD2-4C9C89CC25B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{09A2E6BA-352F-47BF-9C8F-869C07113763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09A2E6BA-352F-47BF-9C8F-869C07113763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09A2E6BA-352F-47BF-9C8F-869C07113763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D324C125-0C88-4231-8CD2-4C9C89CC25B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D324C125-0C88-4231-8CD2-4C9C89CC25B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D324C125-0C88-4231-8CD2-4C9C89CC25B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D324C125-0C88-4231-8CD2-4C9C89CC25B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
