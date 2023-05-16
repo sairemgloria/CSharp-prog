@@ -23,15 +23,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO9_MethodsFunctions", "NO9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO10_VariableScoping", "NO10_VariableScoping\NO10_VariableScoping.csproj", "{C1F0A998-7FF4-4E30-8DC9-8D11B2A87ECD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO11_ParametersArguments", "NO11_ParametersArguments\NO11_ParametersArguments.csproj", "{787AE3F5-79C1-416A-AA2A-9394C904F344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO11_ParametersArguments", "NO11_ParametersArguments\NO11_ParametersArguments.csproj", "{787AE3F5-79C1-416A-AA2A-9394C904F344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO12_ReturnType", "NO12_ReturnType\NO12_ReturnType.csproj", "{00689159-DA3C-477F-91C0-46BF039CD1CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO12_ReturnType", "NO12_ReturnType\NO12_ReturnType.csproj", "{00689159-DA3C-477F-91C0-46BF039CD1CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO13_OverloadingMethods", "NO13_OverloadingMethods\NO13_OverloadingMethods.csproj", "{5ABEA2E7-E308-4117-8B19-54E8299DC23E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO13_OverloadingMethods", "NO13_OverloadingMethods\NO13_OverloadingMethods.csproj", "{5ABEA2E7-E308-4117-8B19-54E8299DC23E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeNO1", "ChallengeNO1\ChallengeNO1.csproj", "{63D0C6C5-8A5B-48B0-9BE3-6CBA9AE641E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNO1", "ChallengeNO1\ChallengeNO1.csproj", "{63D0C6C5-8A5B-48B0-9BE3-6CBA9AE641E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO14_Classes", "NO14_Classes\NO14_Classes.csproj", "{5B6B5E32-7A27-4F30-8B07-5EF8D1396362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO14_Classes", "NO14_Classes\NO14_Classes.csproj", "{5B6B5E32-7A27-4F30-8B07-5EF8D1396362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO15_Static", "NO15_Static\NO15_Static.csproj", "{E3CEF789-9FB1-41C1-8482-7D4EF38355D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{5B6B5E32-7A27-4F30-8B07-5EF8D1396362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6B5E32-7A27-4F30-8B07-5EF8D1396362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6B5E32-7A27-4F30-8B07-5EF8D1396362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CEF789-9FB1-41C1-8482-7D4EF38355D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CEF789-9FB1-41C1-8482-7D4EF38355D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CEF789-9FB1-41C1-8482-7D4EF38355D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CEF789-9FB1-41C1-8482-7D4EF38355D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
