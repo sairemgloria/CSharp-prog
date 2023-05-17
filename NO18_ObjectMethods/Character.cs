@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace NO18_ObjectMethods
 {
+    // this is the class
     internal class Character
     {
+        // this is are the attributes
         public string name, dialog;
         public int hp, mp, lvl;
 
+        // this is the constructor of the class
         public Character(string name, string dialog, int hp, int mp, int lvl)
         {
             this.name = name;
@@ -20,16 +23,15 @@ namespace NO18_ObjectMethods
             this.lvl = lvl;
         }
 
+        // this is are the object methods
         public void introduce()
         {
             Console.WriteLine("I am " + name);
         }
-
         public void sayDialog()
         {
             Console.WriteLine(name + "'s Voice Line : " + dialog);
         }
-
         public void characterInfo()
         {
             Console.WriteLine(name + "'s Information :");
