@@ -7,9 +7,9 @@
             /* Topic NO 19 : Encapsulation */
             Console.WriteLine("Topic NO 19 : Encapsulation");
 
-            // this are the Getters ..
             try
             {
+                // this are the Getters ..
                 Console.Write("Enter user id   : "); int UserID = Convert.ToInt32(Console.ReadLine());
                 Console.Write("Enter username  : "); string Username = Console.ReadLine();
                 Console.Write("Enter firstname : "); string FirstName = Console.ReadLine();
