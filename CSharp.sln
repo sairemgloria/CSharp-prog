@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO19_Encapsulation", "NO19_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO19.1_EncapsulationWithGetSetShortcut", "NO19.1_EncapsulationWithGetSetShortcut\NO19.1_EncapsulationWithGetSetShortcut.csproj", "{780A2B92-10F3-4D11-AA4B-1A61EBCBDA99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO20_OverloadingConstructor", "NO20_OverloadingConstructor\NO20_OverloadingConstructor.csproj", "{1091577F-EFB6-431D-B9C4-1B84B642726F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{780A2B92-10F3-4D11-AA4B-1A61EBCBDA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{780A2B92-10F3-4D11-AA4B-1A61EBCBDA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{780A2B92-10F3-4D11-AA4B-1A61EBCBDA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1091577F-EFB6-431D-B9C4-1B84B642726F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1091577F-EFB6-431D-B9C4-1B84B642726F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1091577F-EFB6-431D-B9C4-1B84B642726F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1091577F-EFB6-431D-B9C4-1B84B642726F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
