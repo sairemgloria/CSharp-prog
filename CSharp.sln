@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNO2", "ChallengeNO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO18_ObjectMethods", "NO18_ObjectMethods\NO18_ObjectMethods.csproj", "{CE902116-AF10-427A-9315-429F9ADC8B6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeNO3", "ChallengeNO3\ChallengeNO3.csproj", "{55D3D103-A98B-4035-9B99-D7F9DE91FD13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNO3", "ChallengeNO3\ChallengeNO3.csproj", "{55D3D103-A98B-4035-9B99-D7F9DE91FD13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO19_Encapsulation", "NO19_Encapsulation\NO19_Encapsulation.csproj", "{2F539945-AA8D-40F5-8C91-3321011E196B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{55D3D103-A98B-4035-9B99-D7F9DE91FD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D3D103-A98B-4035-9B99-D7F9DE91FD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D3D103-A98B-4035-9B99-D7F9DE91FD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F539945-AA8D-40F5-8C91-3321011E196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F539945-AA8D-40F5-8C91-3321011E196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F539945-AA8D-40F5-8C91-3321011E196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F539945-AA8D-40F5-8C91-3321011E196B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
