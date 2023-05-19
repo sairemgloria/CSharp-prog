@@ -24,6 +24,14 @@ namespace NO21_Inheritance
             //toddler.Power = "Dash"; // this is the encapsulated attribute of Toddler class
             toddler.introduceSelf(); // this is for person class object method
             toddler.toddlerPower(); // this is for toddler class object method
+            Console.WriteLine();
+
+            /* Child's output */
+            Console.WriteLine("Child Information");
+            Child child = new Child("Sage","Female",26,"Heal","Plant Spike");
+            child.introduceSelf(); // this is for person class object method
+            child.toddlerPower(); // this is for toddler class object method
+            child.sageHobby(); // this is for child class object method
         }
     }
 
@@ -75,6 +83,23 @@ namespace NO21_Inheritance
         public void toddlerPower()
         {
             Console.WriteLine("Ability : " + power);
+        }
+    }
+
+    class Child : Toddler
+    {
+        /* Child Attribute(s) */
+        public string hobby { get; set; }
+
+        /* Child Constructor */
+        public Child(string name, string sex, int age, string Power, string hobby) : base(name, sex, age, Power)
+        {
+            this.hobby = hobby;
+        }
+
+        public void sageHobby()
+        {
+            Console.WriteLine("Hobby : " + hobby);
         }
     }
 }
