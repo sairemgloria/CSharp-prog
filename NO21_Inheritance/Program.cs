@@ -18,10 +18,6 @@ namespace NO21_Inheritance
             /* Toddler's output */
             Console.WriteLine("Toddler Information");
             Toddler toddler = new Toddler("Jett","Female",28,"Dash");
-            //toddler.name = "Lyca";
-            //toddler.sex = "Female";
-            //toddler.age = 28;
-            //toddler.Power = "Dash"; // this is the encapsulated attribute of Toddler class
             toddler.introduceSelf(); // this is for person class object method
             toddler.toddlerPower(); // this is for toddler class object method
             Console.WriteLine();
@@ -97,6 +93,7 @@ namespace NO21_Inheritance
             this.hobby = hobby;
         }
 
+        /* Child object methods */
         public void sageHobby()
         {
             Console.WriteLine("Hobby : " + hobby);
