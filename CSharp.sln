@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO22.2_InheritanceOverridin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO23_Polymorphism", "NO23_Polymorphism\NO23_Polymorphism.csproj", "{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeNO5.1", "ChallengeNO5.1\ChallengeNO5.1.csproj", "{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
