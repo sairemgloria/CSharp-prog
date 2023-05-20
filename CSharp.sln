@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO23_Polymorphism", "NO23_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeNO5.1", "ChallengeNO5.1\ChallengeNO5.1.csproj", "{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO24_Abstraction", "NO24_Abstraction\NO24_Abstraction.csproj", "{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
