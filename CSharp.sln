@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNO5_Polymorphism",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO22.1_InheritanceOverridingMethod", "NO22.1_InheritanceOverridingMethod\NO22.1_InheritanceOverridingMethod.csproj", "{27F21DBF-E7B3-4BF5-BBC8-7361AE25EAAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO22.2_InheritanceOverridingMethodContinuation", "NO22.2_InheritanceOverridingMethodContinuation\NO22.2_InheritanceOverridingMethodContinuation.csproj", "{5EAA441A-9517-4D26-B8FA-02312703F2B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO22.2_InheritanceOverridingMethodContinuation", "NO22.2_InheritanceOverridingMethodContinuation\NO22.2_InheritanceOverridingMethodContinuation.csproj", "{5EAA441A-9517-4D26-B8FA-02312703F2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO23_Polymorphism", "NO23_Polymorphism\NO23_Polymorphism.csproj", "{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{5EAA441A-9517-4D26-B8FA-02312703F2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EAA441A-9517-4D26-B8FA-02312703F2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EAA441A-9517-4D26-B8FA-02312703F2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
