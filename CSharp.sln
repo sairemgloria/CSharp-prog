@@ -61,11 +61,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO22.1_InheritanceOverridin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO22.2_InheritanceOverridingMethodContinuation", "NO22.2_InheritanceOverridingMethodContinuation\NO22.2_InheritanceOverridingMethodContinuation.csproj", "{5EAA441A-9517-4D26-B8FA-02312703F2B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO23_Polymorphism", "NO23_Polymorphism\NO23_Polymorphism.csproj", "{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO23_Polymorphism", "NO23_Polymorphism\NO23_Polymorphism.csproj", "{BBEAC103-44D8-40F3-8178-B5D9CC4BFDE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeNO5.1", "ChallengeNO5.1\ChallengeNO5.1.csproj", "{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNO5.1", "ChallengeNO5.1\ChallengeNO5.1.csproj", "{590E3C4B-8F2A-485A-B5E8-B1F14E727C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO24_Abstraction", "NO24_Abstraction\NO24_Abstraction.csproj", "{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NO24_Abstraction", "NO24_Abstraction\NO24_Abstraction.csproj", "{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NO25_Interface", "NO25_Interface\NO25_Interface.csproj", "{D50C59D6-9139-4B40-B377-925314E6E0F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D36DBF7-CF1A-4E74-AD97-B32683BC024A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50C59D6-9139-4B40-B377-925314E6E0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50C59D6-9139-4B40-B377-925314E6E0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50C59D6-9139-4B40-B377-925314E6E0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50C59D6-9139-4B40-B377-925314E6E0F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
